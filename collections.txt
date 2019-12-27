@@ -1,18 +1,20 @@
 AI
 
-##### **Q:** 2020 NLP wish lists, HuggingFace + fastai, NeurIPS 2019, GPT-2 things, Machine Learning Interviews Revue
-##### **Q:** Google Brain’s AI achieves state-of-the-art text summarization performance
-##### **Q:** Image Segmentation: Kaggle experience
-##### **Q:** Article: TensorFlow 2 Tutorial: Get Started in Deep Learning With tf.keras
-##### **Q:** Examining BERT’s raw embeddings
-##### **Q:** Eight Surprising Predictions for AI in 2020.
-##### **Q:** Recent Advancements in NLP (1/2)
+##### **Q:** AI:  2020 NLP wish lists, HuggingFace + fastai, NeurIPS 2019, GPT-2 things, Machine Learning Interviews Revue
+##### **Q:** AI:  Google Brains AI achieves state-of-the-art text summarization performance
+##### **Q:** AI:  Image Segmentation: Kaggle experience
+##### **Q:** AI:  Article: TensorFlow 2 Tutorial: Get Started in Deep Learning With tf.keras
+##### **Q:** AI:  Examining BERTs raw embeddings
+##### **Q:** AI:  Eight Surprising Predictions for AI in 2020.
+##### **Q:** AI:  Recent Advancements in NLP (1/2)
 
-##### **Q:** 7 Reasons Why Smart, Hardworking People Don’t Become Successful by Melissa Chu 
-##### **Q:** The Secret To Being Loved The Way You Dream Of
-##### **Q:** The World Beyond Your Head’ by Matthew B. Crawford
-##### **Q:** Become What You Are by Alan Watts
-##### **Q:** The Sense of Style’ by Stephen Pinker
-##### **Q:** The Storm Before the Storm’ by Mike Duncan
-##### **Q:** The 1 Thing I Did That Changed My Entire Life For The Better
-##### **Q:** The Five Qualities You Need in a Partner
+Self-improvement and general interest books
+
+##### **Q:** Gen: 7 Reasons Why Smart, Hardworking People do not Become Successful by Melissa Chu 
+##### **Q:** Gen: The Secret To Being Loved The Way You Dream Of
+##### **Q:** Gen: The World Beyond Your Head’ by Matthew B. Crawford
+##### **Q:** Gen: Become What You Are by Alan Watts
+##### **Q:** Gen: The Sense of Style by Stephen Pinker
+##### **Q:** Gen: The Storm Before the Storm’ by Mike Duncan
+##### **Q:** Gen: The 1 Thing I Did That Changed My Entire Life For The Better
+##### **Q:** Gen: The Five Qualities You Need in a Partner
